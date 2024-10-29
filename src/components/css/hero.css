@@ -1,0 +1,20 @@
+.hero_slide{
+    height: 80vh;
+}
+
+.hero_img{
+    object-fit: cover;
+    height: 80vh;
+}
+
+@media screen and (max-width: 575px) {
+    .hero_slide{
+        height: 50vh;
+        object-fit: cover;
+    }
+
+    .hero_img{
+        object-fit: cover;
+        height: 50vh;
+    }
+}
