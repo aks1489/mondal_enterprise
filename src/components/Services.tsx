@@ -40,7 +40,7 @@ export default function Services() {
                         <div className="card-body text-center">
                             <h5 className="card-title">Customized Workforce Solutions</h5>
                             <p className="card-text">
-                            "Our expert team works closely with each client to provide customized solutions that match their specific needs, ensuring flexibility, efficiency, and timely deployment of manpower."
+                                "Our expert team works closely with each client to provide customized solutions that match their specific needs, ensuring flexibility, efficiency, and timely deployment of manpower."
                             </p>
                         </div>
                     </div>
