@@ -1,0 +1,27 @@
+/* .card_container {
+    height: 24vh;
+} */
+
+@media screen and (max-width: 575px) {
+    .card_container{
+        height: 10vh;
+    }
+}
+
+@media screen and (min-width: 575px) {
+    .card_container{
+        height: 10vh;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    .card_container{
+        height: 15vh;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .card_container{
+        height: 24vh;
+    }
+}
