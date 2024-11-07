@@ -4,19 +4,19 @@
 
 @media screen and (max-width: 575px) {
     .card_container{
-        height: 10vh;
+        height: 18vh;
     }
 }
 
 @media screen and (min-width: 575px) {
     .card_container{
-        height: 10vh;
+        height: 18vh;
     }
 }
 
 @media screen and (min-width: 720px) {
     .card_container{
-        height: 15vh;
+        height: 20vh;
     }
 }
 
